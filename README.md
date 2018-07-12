@@ -12,6 +12,7 @@ Following algorithms are used to detect faces in image.
 - Haar Cascade Classifier
 - LBP Cascade Classifier
 
+## Face Recognition
 Following algorithms are used to recognize faces in image.
 - EigenFaces Face Regonizer
 - FisherFaces Face Recognizer
